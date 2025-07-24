@@ -30,3 +30,7 @@ Community contributions are welcome! Open issues, submit pull requests, or sugge
 - If possible, run your test case(s) against your target models first.
 - Follow the existing formatting style.
 - For questions or suggestions, open an issue or start a discussion!
+
+## 🗂️ Taxonomy
+
+To prioritize security assessments, teams should first identify which system components are exposed to specific threats. Early testing focuses on validating configurations and scanning for vulnerabilities, while later stages involve simulating adversarial attacks on targeted components. To guide these efforts, AI-specific threat taxonomies, like OWASP’s LLM Top 10, are used. As GenAI threat testing evolves, taxonomies are becoming more specialized, especially for threats like prompt injection like [Pangea's](https://pangea.cloud/taxonomy/). More granular classifications help define where and how these attacks occur, enabling more precise testing.
