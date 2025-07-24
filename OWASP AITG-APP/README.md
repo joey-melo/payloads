@@ -23,3 +23,10 @@ These YAML files can be integrated into red teaming pipelines, model eval framew
 ## 📢 Contributing
 
 Community contributions are welcome! Open issues, submit pull requests, or suggest improvements.
+
+- Edit the relevant file in the OWASP AITG-APP directory.
+- Clearly document your changes.
+- Update topics, judge, or prompts if your changes affect them.
+- If possible, run your test case(s) against your target models first.
+- Follow the existing formatting style.
+- For questions or suggestions, open an issue or start a discussion!
